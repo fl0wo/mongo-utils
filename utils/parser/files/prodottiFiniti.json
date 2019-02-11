@@ -1,0 +1,597 @@
+{
+  "prodotti": [
+    {
+      "type": "Panino",
+      "name": "Tramezzino tonno e uova",
+      "price": "1.3",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Tramezzino tonno e olive",
+      "price": "1.3",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Tramezzino tonno e pomodoro",
+      "price": "1.3",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Tramezzino vegetariano",
+      "price": "1.3",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Tramezzino cotto e mozzarella",
+      "price": "1.3",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Tramezzino cotto e funghi",
+      "price": "1.3",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Tramezzino soppressa e funghi",
+      "price": "1.3",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Toast",
+      "price": "2",
+      "options": [
+        "pane integrale",
+        "prosciutto cotto",
+        "formaggio"
+		]
+    },
+    {
+      "type": "Panino",
+      "name": "Toast Vegetariano",
+      "price": "2.5",
+      "options": [
+		"pane integrale"
+		]
+    },
+    {
+      "type": "Panino",
+      "name": "Hot Dog",
+      "price": "2.5",
+      "options": [
+		"ketchup",
+        "maionese"
+		]
+    },
+    {
+      "type": "Panino",
+      "name": "Panino con cotoletta",
+      "price": "3",
+      "options": [
+        "ketchup",
+        "maionese",
+        "insalata"
+      ]
+    },
+	{
+      "type": "Panino",
+      "name": "Panino con salsiccia",
+      "price": "2.5",
+      "options": [
+		"ketchup",
+        "maionese",
+		"insalata"
+		]
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese cotto e funghi",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese cotto e mozzarella",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese tonno e pomodoro",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese soppressa e funghi",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese pancetta e funghi",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese speck e wurtsel",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese vegetariano",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese soppressa e salsa piccante",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese porchetta e salsa messicana",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Genovese tonno e olive",
+      "price": "2",
+      "options": []
+    },
+	{
+      "type": "Panino",
+      "name": "Genovese cotto e pomodoro",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Focaccia toscana",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Panino con nutella",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Panino",
+      "name": "Panino con verdure grigliate e formaggio",
+      "price": "2.5",
+      "options": []
+    },
+    {
+      "type": "Pizza",
+      "name": "Pizza piccola tonda",
+      "price": "1.2",
+      "options": []
+    },
+	{
+      "type": "Pizza",
+      "name": "Pizza piccola tonda con Wurstel e patatine",
+      "price": "1.5",
+      "options": []
+    },
+    {
+      "type": "Pizza",
+      "name": "Pizza triangolo",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Pizza",
+      "name": "Pizza media con Wurstel e patatine",
+      "price": "2",
+      "options": []
+    },
+    {
+      "type": "Pizza",
+      "name": "Pizza grande con Wurstel e patatine",
+      "price": "2.5",
+      "options": []
+    },
+    {
+      "type": "Pizza",
+      "name": "Frusta cotto",
+      "price": "2.5",
+      "options": []
+    },
+    {
+      "type": "Pizza",
+      "name": "Tasca cotto e mozzarella",
+      "price": "2.2",
+      "options": []
+    },
+	{
+      "type": "Pizza",
+      "name": "Tasca salamino e peperoni",
+      "price": "2.2",
+      "options": []
+    },
+	{
+      "type": "Pizza",
+      "name": "Tasca speck e funghi",
+      "price": "2.2",
+      "options": []
+    },
+    {
+      "type": "Piatto freddo",
+      "name": "Insalatona mista",
+      "price": "4.5",
+      "options": []
+    },
+    {
+      "type": "Piatto freddo",
+      "name": "Affettati misti",
+      "price": "4.5",
+      "options": []
+    },
+    {
+      "type": "Piatto freddo",
+      "name": "Verdure grigliate",
+      "price": "4",
+      "options": []
+    },
+    {
+      "type": "Piatto freddo",
+      "name": "Mix verdure e affettati",
+      "price": "4.5",
+      "options": []
+    },
+    {
+      "type": "Piatto freddo",
+      "name": "Caprese",
+      "price": "4",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Acqua 0.5L",
+      "price": "0.5",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Gingerino",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Lattina CocaCola 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina Pepsi limone 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina Fanta 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina The limone 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina The verde 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina The pesca 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina Chinotto 0.33L",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Lattina Lemonsoda 0.33L",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Bottiglia the limone 0.5L",
+      "price": "1.5",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Bottiglia the pesca 0.5L",
+      "price": "1.5",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Succhi di frutta vetro ananas",
+      "price": "1.5",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Succhi di frutta vetro pesca",
+      "price": "1.5",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Succhi di frutta vetro pera",
+      "price": "1.5",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Succhi di frutta vetro ace",
+      "price": "1.5",
+      "options": []
+    },
+    {
+      "type": "Bibita",
+      "name": "Succhi di frutta brick ananas",
+      "price": "0.5",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Succhi di frutta brick pesca",
+      "price": "0.5",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Succhi di frutta brick pera",
+      "price": "0.5",
+      "options": []
+    },
+	{
+      "type": "Bibita",
+      "name": "Succhi di frutta brick ace",
+      "price": "0.5",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Loacker",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Patatine CrikCrok 25g",
+      "price": "0.6",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Jumbonetti",
+      "price": "0.5",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Crackers Doriano",
+      "price": "0.3",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Fiesta",
+      "price": "0.8",
+      "options": []
+    },
+    {
+      "type": "Snack",                                        
+      "name": "Biscotto cioccolato 200gr",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Goleador CocaCola",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Goleador Frutta",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Goleador Fizzy Soft",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Goleador Liquirizia",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Goleador Gold",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Goleador Mystery",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Cola Xplosion",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Cherry Xplosion",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Lupo Alberto",
+      "price": "0.1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Arachidi",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Vivident Xilit",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Golia Bianca",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Air Action Vigorsol",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Ringo Goal",
+      "price": "0.8",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Kinder Duplo",
+      "price": "0.8",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Kinder Maxi",
+      "price": "0.8",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Kinder Cereali",
+      "price": "0.8",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Kinder Bueno",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Biscotti Dorè vaniglia",
+      "price": "0.6",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Biscotti Dorè cioccolato",
+      "price": "0.6",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Biscotti Baiocchi",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Biscotti Ringo",
+      "price": "1",
+      "options": []
+    },
+    {
+      "type": "Snack",
+      "name": "Brioche Marmellata",
+      "price": "0.9",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Brioche Cioccolato",
+      "price": "0.9",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Brioche Crema",
+      "price": "0.9",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Brioche vuota",
+      "price": "0.9",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Kinder Ovetti",
+      "price": "0.2",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Biscotto cioccolato 100gr",
+      "price": "0.8",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Biscotto marmellata 100gr",
+      "price": "1",
+      "options": []
+    },
+	{
+      "type": "Snack",
+      "name": "Biscotto marmellata 50gr",
+      "price": "0.6",
+      "options": []
+    }
+  ]
+}
