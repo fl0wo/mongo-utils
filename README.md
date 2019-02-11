@@ -10,7 +10,7 @@ So easy and fun! Let's GO!
 
  - Clone the repository
  - cd mongo-utils
- - npm install
+ - npm install mongodb
  - Enjoy :D
 
 
