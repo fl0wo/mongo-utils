@@ -17,7 +17,7 @@ So easy and fun! Let's GO!
 ## Add User 
 
 ```
-  users.insertOne(inserts.insertUser('cappa@gmail.com','ciao','Alberto Basaglia',1));
+  users.insertOne(inserts.insertUser('cappa@gmail.com','Alberto Basaglia',1));
 ```
 
 ## Add Order to User
