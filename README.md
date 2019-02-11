@@ -16,9 +16,13 @@ So easy and fun! Let's GO!
 
 ## Add User 
 
- - users.insertOne(inserts.insertUser('cappa@gmail.com','ciao','Alberto Basaglia',1));
+```
+  users.insertOne(inserts.insertUser('cappa@gmail.com','ciao','Alberto Basaglia',1));
+```
 
 ## Add Order to User
+
+```
 
 users.updateOne(selections.users_by_code(0),updates.addUserOrder(
     gens.createOrder('id_order_1')  // crea un ordine
@@ -29,6 +33,7 @@ users.updateOne(selections.users_by_code(0),updates.addUserOrder(
     .finishOrder()
 ));
 
+```
 
 
 # MongoDb CheatSheet
